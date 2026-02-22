@@ -1,11 +1,9 @@
 :speech_balloon:Contacts <br> maksim@psu.ru
 
 ---
-<div align="center">
-  <img src="https://raw.githubusercontent.com/UsrMakson/UsrMakson/main/images/header.svg" alt="Header Banner" width="100%"/>
-</div>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=UsrMakson&color=blue)
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=MaksimStryapunin&color=blue)
   
 </div>
 
