@@ -1,13 +1,10 @@
 :speech_balloon:Contacts <br> maksim@psu.ru
 
----
 
 
   ![Profile Views](https://komarev.com/ghpvc/?username=MaksimStryapunin&color=blue)
   
-</div>
 
----
 🛠️stack
 
 ###
@@ -28,10 +25,3 @@
 ###
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-##
-📊stats
-<div align="center">
-
-  
-</div>
