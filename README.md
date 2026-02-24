@@ -3,7 +3,10 @@
 
 
   ![Profile Views](https://komarev.com/ghpvc/?username=MaksimStryapunin&color=blue)
+
+---
   
+</div>
 
 🛠️stack
 
