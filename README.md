@@ -30,5 +30,4 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ###
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaksimStryapunin&theme=default" />
