@@ -1,7 +1,5 @@
 :speech_balloon:Contacts <br> maksim@psu.ru
 
-
-
   ![Profile Views](https://komarev.com/ghpvc/?username=MaksimStryapunin&color=blue)
 
 ---
@@ -17,6 +15,10 @@
 
 ###
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+
+###
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-FFFFFF.svg?style=for-the-badge&logoColor=black&labelColor=white&color=%23316192)
 
 ###
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
