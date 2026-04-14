@@ -1,6 +1,6 @@
 :speech_balloon:Contacts <br> maksim@psu.ru
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=MaksimStryapunin&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=MaksimStryapunin&color=blue)
 
 ---
   
