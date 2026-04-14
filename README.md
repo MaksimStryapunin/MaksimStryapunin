@@ -36,3 +36,11 @@
 
 ###
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaksimStryapunin&theme=default" />
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaksimStryapunin&theme=radical)](https://git.io/streak-stats)
+
+</div>
