@@ -34,13 +34,18 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 
-###
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaksimStryapunin&theme=default" />
-
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+###
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaksimStryapunin&theme=default" />
 
+</div>
+
+<div align="center">
+
+###
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaksimStryapunin&theme=radical)](https://git.io/streak-stats)
 
 </div>
